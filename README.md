@@ -1,1 +1,1 @@
-# egg-hockey-app
+# Migthy Ducks Hockey League
